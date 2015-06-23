@@ -1,0 +1,9 @@
+ham poruka: 4827, spam poruka: 747
+broj razlicitih rijeci: 4420
+broj rijeci ukupno: 70089
+broj spam rijeci ukupno: 13417
+broj ham rijeci ukupno: 56672
+broj spam poruka: 590
+broj ham poruka: 3910
+spam kandidata: 143
+ham kandidata: 95

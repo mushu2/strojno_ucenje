@@ -1,0 +1,4 @@
+shuf unshuffleddata.txt > data.txt
+./filter
+./count
+./extract
